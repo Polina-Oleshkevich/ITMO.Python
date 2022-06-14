@@ -1,2 +1,2 @@
 # ITMO.Python
-Test - lab 1
+Test.py - lab 1
